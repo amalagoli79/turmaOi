@@ -1,0 +1,15 @@
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\17-10-22\TurmaOi\Back-End-ER05\obj\Debug\net6.0\ref\Back-End-ER05.dll

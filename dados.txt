@@ -1,0 +1,26 @@
+cnpj - limpo/sem pontos, barra e traço: 14
+cnpj - com todos os caracteres: 18
+-----------------------------------------------------
+
+REGEX - verdadeiro ok true / falso não ok false
+
+argumento 1 / numero do documento = ex: 45936782000103
+
+argumento 2 / mascara/padrao = ex: _ _ . _ _ _ . _ _ _ / _ _ _ _ - _ _.
+-----------------------------------------------------
+
+SUBSTRING - 
+
+Adriano Gentil
+0123456
+
+0, 7 >>"Adriano"
+
+4, 3 >>"ano"
+
+-----------------------------------------------------
+93.157.153/0001-28 / 00.476.645/0001-03
+
+55523209000121 / 45936782000103
+
+https://www.4devs.com.br/gerador_de_cnpj
