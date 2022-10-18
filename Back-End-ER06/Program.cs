@@ -13,8 +13,8 @@ do
 Console.Clear();
 Console.WriteLine(@$"
 ================================================
-|        Bem Vindo ao Sistema de Casdastro     |
-|            Pessoa Fisica & Juridica          |
+|        Bem Vindo ao Sistema de Cadastro      |
+|            Pessoa Física & Jurídica          |
 ================================================
 |                                              |
 |             1 - Pessoa Física                |
@@ -83,19 +83,20 @@ switch (opcao)
         break;
 
     case "0":
-        Console.WriteLine($"Finalizado");
+        Thread.Sleep(1000);
+        Utils.BarraCarregamento("Finalizando");        
         break;
 
     default:
         Console.WriteLine($"Opção Inválida");
-        
+        Thread.Sleep(5000);
         break;
 }
 
 
 } while (opcao !="0");
 
-Utils.BarraCarregamento("Finalizando");
+
 
 
 
