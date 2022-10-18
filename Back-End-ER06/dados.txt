@@ -1,0 +1,23 @@
+Console.writeline
+Console.write
+Console.Readline - solicita entrada via teclado / aguardar
+Console.resetcolor - reinicia cores
+Console.backgroundcolor - cores de fundo
+Console.foregroundcolor - cor do caracter
+Thread.sleep (1s ==> 1000ms) aguardar
+Console.clear
+Criar nova classe - Utils
+Criar metodo estatico - 
+
+loços/loops/repetições
+- for  
+- Do While
+- While
+- Switch Case (opçôes)
+- If
+
+
+
+
+
+
