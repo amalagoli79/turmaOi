@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CadastroPessoaBET6/1.0.0": {
+        "runtime": {
+          "CadastroPessoaBET6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroPessoaBET6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
