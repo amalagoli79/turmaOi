@@ -1,0 +1,27 @@
+Encontro Remoto 08
+Data: 31/10/22
+Turma Oi
+Das 14 às 18h
+
+Assunto:
+
+Através da aplicação gravar e ler dados em arquivos locais
+- Tecnologias 
+	StreamWriter / StreamReader (c#).
+	AppendAlllines / ReadAlllines / Using / Split 
+	Arquivo txt / csv
+
+csv...
+ 0      1      2          3
+nome, idade, endereço, telefone, .... 
+
+txt...
+21212121
+cvxcvxcvx
+1212121
+21212
+sdfsdfd
+.........
+
+
+	
