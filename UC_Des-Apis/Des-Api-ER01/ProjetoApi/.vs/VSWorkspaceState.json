@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChapterTurmaOi",
+    "\\ChapterTurmaOi\\Controllers",
+    "\\ChapterTurmaOi\\Interfaces",
+    "\\ChapterTurmaOi\\Models",
+    "\\ChapterTurmaOi\\Repositories"
+  ],
+  "SelectedNode": "\\ChapterTurmaOi\\Controllers\\LivroController.cs",
+  "PreviewInSolutionExplorer": false
+}
