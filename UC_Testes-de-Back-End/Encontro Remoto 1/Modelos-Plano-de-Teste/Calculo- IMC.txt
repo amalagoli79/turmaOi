@@ -1,0 +1,9 @@
+
+Calculo do IMC
+
+Peso em kilos 94 kg / altura (metros) 1.81 x 1.81 (3,2761)
+
+94 / 3,27 = Resultado: 28,692
+
+Aplicativo, console, método para ser testado.
+
