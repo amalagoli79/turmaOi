@@ -1,0 +1,34 @@
+Encontro Remoto 1
+Descrição:
+Apresentar a proposta de modelagem para o projeto de jogo de RPG online.
+
+ 
+
+Para essa atividade, você deverá estruturar uma apresentação,  sobre a modelagem do banco de dados para o jogo de RPG online, explicando:
+
+ 
+
+-  a associação entre as tabelas;
+
+- os tipos de relacionamentos;
+
+- as chaves primária e estrangeira,;
+
+- as entidades e os atributos (propriedades e as características).
+
+
+Essa atividade será conduzida pelo seu professor tutor em um encontro remoto.
+
+Portanto, consulte os avisos de confirmação da data e horário aqui no AVA, na aba "Encontros Presenciais/Remotos". 
+
+Durante o encontro, fique atento:
+
+- Às orientações da atividade oferecidas pelo professor tutor para executar a atividade.
+-Às capacidades envolvidas nessa atividade, a qualidade do trabalho e os critérios de avaliação.
+-Ao prazo de entrega da atividade.
+
+Estabeleça diálogo com o professor tutor e com os demais colegas de turma, com cordialidade e respeito.
+
+Aproveite este momento para tirar todas as suas dúvidas.
+
+Ao final da atividade, compartilhe aqui sua apresentação.
