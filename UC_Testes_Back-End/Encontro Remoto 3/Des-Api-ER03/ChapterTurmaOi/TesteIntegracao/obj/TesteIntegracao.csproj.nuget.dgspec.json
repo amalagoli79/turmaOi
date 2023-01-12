@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\TesteIntegracao\\TesteIntegracao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
+        "projectName": "ChapterTurmaOi",
+        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
+        "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\TesteIntegracao\\TesteIntegracao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\TesteIntegracao\\TesteIntegracao.csproj",
+        "projectName": "TesteIntegracao",
+        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\TesteIntegracao\\TesteIntegracao.csproj",
+        "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\TesteIntegracao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {
+                "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\ER03\\TurmaOi\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {}
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj",
+        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj",
         "projectName": "TurmaOiAplicTestes",
-        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj",
+        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj",
         "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\obj\\",
+        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

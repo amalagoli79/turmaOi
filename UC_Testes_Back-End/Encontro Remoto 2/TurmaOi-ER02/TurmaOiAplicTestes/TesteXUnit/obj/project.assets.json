@@ -6130,11 +6130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TesteXUnit\\TesteXUnit.csproj",
+      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteXUnit\\TesteXUnit.csproj",
       "projectName": "TesteXUnit",
-      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TesteXUnit\\TesteXUnit.csproj",
+      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteXUnit\\TesteXUnit.csproj",
       "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TesteXUnit\\obj\\",
+      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteXUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6151,8 +6151,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {
-              "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\02-01-23\\TurmaOi\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj"
+            "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {
+              "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj"
             }
           }
         }
@@ -6204,7 +6204,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

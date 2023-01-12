@@ -10,3 +10,15 @@ C:\Users\senaisp\Desktop\Aulas\02-01-23\TurmaOi\TurmaOiAplicTestes\TurmaOiAplicT
 C:\Users\senaisp\Desktop\Aulas\02-01-23\TurmaOi\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\refint\TurmaOiAplicTestes.dll
 C:\Users\senaisp\Desktop\Aulas\02-01-23\TurmaOi\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.pdb
 C:\Users\senaisp\Desktop\Aulas\02-01-23\TurmaOi\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\ref\TurmaOiAplicTestes.dll
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.deps.json
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.dll
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.pdb
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.dll
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\refint\TurmaOiAplicTestes.dll
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.pdb
+C:\Users\senaisp\Desktop\Aulas\10-01-23\TurmaOi-GitHub\UC_Testes_Back-End\Encontro Remoto 2\TurmaOi-ER02\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\ref\TurmaOiAplicTestes.dll

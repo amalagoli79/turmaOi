@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tp6lJt7IWSZ5AWHKlxKSVU5EKwdbNIGTYYEjfdaUKgjYp/+UkqOvI61HXeNQMZ7qT7IENimUAjUY0Qbd6OLSBw==",
+  "dgSpecHash": "+LzlS6GhJ5rqdBxSY5VnfYFQ/vtU+Lw+FOpgrSohtoPnzpY0Jh930hemSbQAwIDqtiJRllODdEdHKrSPE2rUKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
+  "projectFilePath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\senaisp\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "C:\\Users\\senaisp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

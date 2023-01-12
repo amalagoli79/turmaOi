@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {}
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {
+    "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
+        "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
         "projectName": "ChapterTurmaOi",
-        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
+        "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\ChapterTurmaOi.csproj",
         "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\19-12-22\\TumaOi\\ProjetoApi\\ChapterTurmaOi\\ChapterTurmaOi\\obj\\",
+        "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Des-Apis\\Des-Api-ER04\\ChapterTurmaOi\\ChapterTurmaOi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
